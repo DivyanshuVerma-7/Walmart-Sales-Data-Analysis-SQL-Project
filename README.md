@@ -41,7 +41,7 @@ Focus on segmenting customers, understanding their purchasing behaviors, and eva
 ### 1. Data Wrangling
 
 In this initial step, the dataset is reviewed for NULL or missing values, and appropriate strategies are applied to handle and replace them.
-* Building a Database:
+* Building a Database.
 * Create a database table and insert the data.
 * Check for columns with NULL values. In this case, no NULL values were present because the NOT NULL constraint was applied during table creation.
 ### 2. Feature Engineering
